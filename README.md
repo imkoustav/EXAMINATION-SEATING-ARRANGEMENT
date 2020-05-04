@@ -9,8 +9,13 @@ No specific conventions are to be followed.
 This SRS is directed towards developers and customers as it contains documentation which can qualify as intended for general reading as well as delving into technical details. 
 1.4 Project Scope 
 The software “Examination Seating Arrangement” is made for accommodating students in examination halls effectively. Instead of manually arranging seats for examinations, the software can provide an overview of how the seating should be made on the basis of room count and student information and examination list. 
-1.5 References 
+1.5 References
+
+
 https://www.geeksforgeeks.org/friend-class-function-cpp/ 
+
+
+
 https://www.tutorialspoint.com/cplusplus/cpp_files_streams.htm 
  
  
